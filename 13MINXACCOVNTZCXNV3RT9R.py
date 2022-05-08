@@ -1,7 +1,7 @@
 from pyfiglet import figlet_format
 print("""Script by deluvsushi
 Github : https://github.com/deluvsushi""")
-print(figlet_format("aminoaccountsconverter", font="small", width=57))
+print(figlet_format("13MINXACCOVNTZCXNV3RT9R", font="small", width=57))
 
 
 def converting_process(password: str):
